@@ -1,11 +1,13 @@
 /* base */
-@import url("./normalize.css");
 @import url("./font-family.css");
 @import url("./_base/layout.css");
 @import url("./_base/variables.css");
 
 /* components */
 @import url("./components/navigation.css");
+@import url("./components/home-page.css");
+@import url("./components/hero.css");
+@import url("./components/category-section.css");
 
 /* particle */
 
@@ -16,5 +18,5 @@
 /* templates */
 
 /* items */
-@import url();
+
 
