@@ -1,10 +1,10 @@
-import Navigation from './Components/Navigation';
-import "./css/style.css"
+import ReactRouter from './components/ReactRouter';
+import "./css/style.css";
 
 function App() {
   return (
     <div className="App">
-      <Navigation/>
+      <ReactRouter/>
     </div>
   );
 }

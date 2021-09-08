@@ -1,0 +1,32 @@
+.category-section {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1120px;
+  margin: auto;
+}
+.category-section > img {
+  width: 100%;
+  max-width: 560px;
+}
+.section-description {
+  padding: var(--space-medium);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.section-description button {
+  border: none;
+  background: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .category-section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  }
+  .category-section:nth-child(even) {
+    flex-direction: row-reverse;
+  }
+}
