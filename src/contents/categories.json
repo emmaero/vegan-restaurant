@@ -49,32 +49,32 @@
     "products": [
       {
         "id": "1",
-        "name": "Lentil stew",
-        "imageUrl": "/dishes/lentil-stew.jpeg",
+        "name": "Cinnamon bun",
+        "imageUrl": "/deserts/cinnamon-cardamom-bun.jpeg",
         "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
         "ingredients": [""],
         "nutrients": [{}]
       },
       {
         "id": "2",
-        "name": "Carot soup",
-        "imageUrl": "/dishes/carot-soup.jpeg",
+        "name": "Eggplant rum sauce",
+        "imageUrl": "/deserts/eggplant-creamy-rum-sauce.jpeg",
         "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
         "ingredients": [""],
         "nutrients": [{}]
       },
       {
         "id": "3",
-        "name": "peanut stew-with-cauliflower",
-        "imageUrl": "/dishes/peanut-stew-with-cauliflower.jpeg",
+        "name": "Mushrooms onions mustard seeds",
+        "imageUrl": "/deserts/mushrooms-onions-mustard-seeds.jpeg",
         "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
         "ingredients": [""],
         "nutrients": [{}]
       },
       {
         "id": "4",
-        "name": "Potato and beans soup",
-        "imageUrl": "/dishes/potato-beans.jpeg",
+        "name": "Vegan taost",
+        "imageUrl": "/deserts/vegan-toast.jpeg",
         "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
         "ingredients": [""],
         "nutrients": [{}]
@@ -107,7 +107,7 @@
       {
         "id": "3",
         "name": "peanut-stew-with-cauliflower",
-        "imageUrl": "/dishes/peanut-stew-with-cauliflower.",
+        "imageUrl": "/dishes/peanut-stew-with-cauliflower.jpeg",
         "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
         "ingredients": [""],
         "nutrients": [{}]

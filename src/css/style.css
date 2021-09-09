@@ -9,6 +9,7 @@
 @import url("./components/hero.css");
 @import url("./components/category-section.css");
 @import url("./components/category.css");
+@import url("./components/product-page.css");
 
 /* particle */
 
@@ -16,8 +17,5 @@
 @import url("./particles/paragraph.css");
 
 
-/* templates */
-
 /* items */
-
-
+@import url("./items/buttons.css");
