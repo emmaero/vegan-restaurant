@@ -1,11 +1,14 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-a{
+a {
   text-decoration: none;
   color: inherit;
+}
+.container {
+  width: 100%;
 }
 
 .App {
@@ -17,9 +20,9 @@ html {
   scroll-behavior: smooth;
 }
 
-.row{
+.row {
   max-width: 1120px;
   padding: var(--space-medium);
   width: 100%;
-   margin: auto;
+  margin: auto;
 }

@@ -1,0 +1,12 @@
+.button-main{
+    border: solid 3px var(--color-green);
+    background-color: var(--color-white);
+    padding: var(--space-small) 0;
+    min-width: 311px;
+    height: 44px;
+    text-align: center;
+    cursor: pointer;
+}
+.button-main:hover{
+    background-color: var(--color-green);
+}

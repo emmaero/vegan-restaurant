@@ -1,24 +1,11 @@
 import React from "react";
-import categories from "./../contents/categories.json";
-import { Link } from "react-router-dom";
+import categories from "../../contents/categories.json";
+import ProductCard from "./ProductCard";
 export default function Category({ match }) {
   const id = match.params.id;
   const category = categories.find((item) => item.id === id);
   const products = category.products.map((product) => (
-    <Link to={`/product/${id}/${product.id}`}>
-      <li>
-        <div className="product-card">
-          <img
-            src={require("../assets/images" + product.imageUrl).default}
-            alt=""
-          />
-          <div className="">
-            <h3>{product.name}</h3>
-            <p>{product.description}</p>
-          </div>
-        </div>
-      </li>
-    </Link>
+    <ProductCard key={product.id} product={product} categoryId={id} />
   ));
   return (
     <div className="container">
