@@ -12,8 +12,8 @@ export default function ReactRouter() {
       <Navigation />
       <Switch>
         <Route path="/" exact component={HomePage} />
-        <Route path="/category:id" component={Category} />
-        <Route path="/product" component={Product} />
+        <Route path="/category/:id" component={Category} />
+        <Route path="/product/:categoryId/:id" component={Product} />
         <Route path="/contact" component={Contact} />
       </Switch>
     </Router>

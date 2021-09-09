@@ -12,13 +12,13 @@ export default function Navigation() {
       </div>
       <ul className="nav-links">
         <li>
-          <Link to="/product">Dishes</Link>
+          <Link to="/category/1">Dishes</Link>
         </li>
         <li>
-          <Link to="/product">Deserts</Link>
+          <Link to="/category/2">Deserts</Link>
         </li>
         <li>
-          <Link to="/product">Drinks</Link>
+          <Link to="/category/3">Drinks</Link>
         </li>
         <li>
           <Link to="/contact">Contact us</Link>
