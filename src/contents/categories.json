@@ -3,7 +3,7 @@
     "id": "1",
     "name": "Dishes",
     "linkUrl": "/dishes",
-    "categoryImage": "",
+    "categoryImage": "/dish.jpeg",
     "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
     "products": [
       {
@@ -44,7 +44,7 @@
     "id": "2",
     "name": "Deserts",
     "linkUrl": "/deserts",
-    "categoryImage": "",
+    "categoryImage": "/desert.jpeg",
     "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
     "products": [
       {
@@ -85,7 +85,7 @@
     "id": "3",
     "linkUrl": "/drinks",
     "name": "Drinks",
-    "categoryImage": "",
+    "categoryImage": "/drink.jpeg",
     "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
     "products": [
       {

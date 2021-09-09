@@ -4,7 +4,7 @@ import Navigation from "./Navigation";
 import HomePage from "./homePage/HomePage";
 import Category from "./category/Category";
 import Product from "./product/ProductPage";
-import Contact from "./Contact";
+import Contact from "../components/contact/Contact";
 
 export default function ReactRouter() {
   return (
