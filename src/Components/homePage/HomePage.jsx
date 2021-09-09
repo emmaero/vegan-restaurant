@@ -1,11 +1,11 @@
 import React from "react";
 import Hero from "./Hero";
 import CategorySection from "./CategorySection";
-import category from "../../contents/category.json";
+import categories from "../../contents/categories.json";
 import logo from "../../assets/images/category/dish.jpeg";
 import { Link } from "react-router-dom";
 export default function HomePage() {
-  const list = category.map((item) => (
+  const list = categories.map((item) => (
     <CategorySection key={item.id}>
       <img src={logo} alt="vegan halmstad" />
           <div className="section-description">

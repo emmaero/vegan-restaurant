@@ -14,6 +14,7 @@
   color: var(--color-white);
   align-items: center;
   z-index: 10;
+  position: relative;
 }
 .nav-links li {
   list-style: none;
