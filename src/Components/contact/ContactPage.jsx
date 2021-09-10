@@ -2,8 +2,9 @@ import React from "react";
 import owner from "../../assets/images/contact/owner.jpg";
 import ContactAddress from "./ContactAddress";
 import Booking from "./Booking";
+import map from "../../assets/images/map.png";
 import OpeningTimes from "./OpeningTimes";
-export default function Contact() {
+export default function ContactPage() {
   return (
     <div className="container">
       <div className="page-image">
@@ -11,11 +12,14 @@ export default function Contact() {
       </div>
       <div className="page-details">
         <h2>Opening times</h2>
-        <OpeningTimes/>
+        <OpeningTimes />
         <h2>Booking table</h2>
-        <Booking/>
+        <Booking />
         <h2>Address</h2>
-        <ContactAddress/>
+        <ContactAddress />
+        <div className="map-section">
+          <img src={map} alt="map" />
+        </div>
       </div>
     </div>
   );

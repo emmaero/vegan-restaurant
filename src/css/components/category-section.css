@@ -16,8 +16,8 @@
   justify-content: center;
 }
 .section-description button {
-  border: none;
-  background: none;
+  margin: 16px 0;
+  max-width: 350px;
 }
 
 @media only screen and (min-width: 768px) {
