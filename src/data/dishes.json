@@ -1,0 +1,192 @@
+{
+    "id": "1",
+    "name": "Dishes",
+    "linkUrl": "/dishes",
+    "categoryImage": "/dish.jpeg",
+    "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
+    "products": [
+      {
+        "id": "1",
+        "name": "Lentil stew",
+        "imageUrl": "/dishes/lentil-stew.jpeg",
+        "highlight": "vegan stew with lots of flavor!",
+        "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
+        "ingredients": [
+          "200 g potatoes",
+          "1 carrot",
+          "½ yellow onion",
+          "1 clove of garlic",
+          "½ fresh red chili fruit",
+          "1 tablespoon rapeseed oil",
+          "1 tablespoon finely grated fresh ginger",
+          "1 teaspoon cumin",
+          "1 teaspoon ground coriander",
+          "½ tsk malen turmeric"
+        ],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Carot soup",
+        "imageUrl": "/dishes/carot-soup.jpeg",
+        "highlight": "White beans and roasted carrots with garlic are mixed into a creamy soup",
+        "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
+        "ingredients": [
+          "350 g carrots",
+          "2 cloves garlic with peel",
+          "½ tablespoons olive oil",
+          "salt and pepper",
+          "Canned white beans (120 g)",
+          "5 dl hot vegetable broth"
+        ],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": []
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Peanut stew with cauliflower",
+        "imageUrl": "/dishes/peanut-stew-with-cauliflower.jpeg",
+        "highlight": "vegan stew with lots of flavor!",
+        "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
+        "ingredients": [
+          "204 / 5000",
+          "Translation results",
+          "400 g cauliflower",
+          "2 dl of water",
+          "3 tablespoons peanut butter, preferably crunchy",
+          "2 tablespoons Japanese soy",
+          "1 tablespoon squeezed lime juice",
+          "1 tablespoon finely grated fresh ginger",
+          "1 finely grated garlic clove",
+          "2 tsp sriracha",
+          "1 teaspoon honey"
+        ],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "potato and beans soup",
+        "imageUrl": "/dishes/potato-beans.jpeg",
+        "highlight": "Boiled potatoes and white beans are mixed into a creamy soup together with spices.",
+        "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
+        "ingredients": [
+          "162 / 5000",
+          "Translation results",
+          "4 potatoes",
+          "1 chopped yellow onion",
+          "1 tablespoon rapeseed oil",
+          "1 liter of water",
+          "2 vegetable bouillon cubes",
+          "1 clove of garlic",
+          "1 teaspoon salt",
+          "2 cream of pepper",
+          "1 can cooked white beans, about 400 g"
+        ],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,26 @@
+{
+  "name": {
+    "autoFocus": "false",
+    "autoComplete": "on",
+    "type": "text",
+    "name": "name"
+  },
+  "email": {
+    "autoFocus": "false",
+    "autoComplete": "on",
+    "type": "email",
+    "name": "email"
+  },
+  "date": {
+    "autoFocus": "false",
+    "autoComplete": "off",
+    "type": "date",
+    "name": "date"
+  },
+  "time": {
+    "autoFocus": "false",
+    "autoComplete": "off",
+    "type": "time",
+    "name": "time"
+  }
+}

@@ -47,7 +47,7 @@
 @media only screen and (min-width: 768px) {
   .product-list img,
   .product-card {
-    max-height: 192px;
+    max-height: 160px;
   }
   .product-card div {
     display: flex;
