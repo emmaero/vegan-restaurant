@@ -1,0 +1,153 @@
+ {
+    "id": "2",
+    "name": "Deserts",
+    "linkUrl": "/deserts",
+    "categoryImage": "/desert.jpeg",
+    "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
+    "products": [
+      {
+        "id": "1",
+        "name": "Cinnamon bun",
+        "imageUrl": "/deserts/cinnamon-cardamom-bun.jpeg",
+        "highlight": "vegan stew with lots of flavor!",
+        "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
+        "ingredients": [""],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Eggplant rum sauce",
+        "imageUrl": "/deserts/eggplant-creamy-rum-sauce.jpeg",
+        "highlight": "White beans and roasted carrots with garlic are mixed into a creamy soup.",
+        "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
+        "ingredients": [""],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Mushrooms onions mustard seeds",
+        "imageUrl": "/deserts/mushrooms-onions-mustard-seeds.jpeg",
+        "highlight": "Vegan stew with a lot of flavor!",
+        "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
+        "ingredients": [""],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Vegan taost",
+        "imageUrl": "/deserts/vegan-toast.jpeg",
+        "highlight":  "Boiled potatoes and white beans are mixed into a creamy soup together with spices.",
+        "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
+        "ingredients": [""],
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
+      }
+    ]
+  }

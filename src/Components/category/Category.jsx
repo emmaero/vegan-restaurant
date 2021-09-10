@@ -1,8 +1,11 @@
 import React from "react";
-import categories from "../../contents/categories.json";
+import drinks from "../../data/drinks.json";
+import dishes from "../../data/dishes.json";
+import deserts from "../../data/deserts.json";
 import ProductCard from "./ProductCard";
 export default function Category({ match }) {
   const id = match.params.id;
+  const categories = [dishes, deserts, drinks];
   const category = categories.find((item) => item.id === id);
   const products = category.products.map((product) => (
     <ProductCard key={product.id} product={product} categoryId={id} />
@@ -18,8 +21,7 @@ export default function Category({ match }) {
                 .default
             }
             alt="vegan"
-          />
-        
+          />   
       </div>
       <div className="category-page-detail row">
         <p>{category.description}</p>

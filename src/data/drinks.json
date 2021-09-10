@@ -1,0 +1,157 @@
+{
+  "id": "3",
+  "linkUrl": "/drinks",
+  "name": "Drinks",
+  "categoryImage": "/drink.jpeg",
+  "description": "At Vegan Halmstad you can be rest assured that you are getting top of the line vegan dishes prepared by some of the finest chef in the city. What make us stand out is that all our ingredient source from local organic farmers. Vegan Halmstad dishes have been rated best in Sweden for the past three consecutive year by vegan association of Sweden. While we are proud of achivements so far, we continue to innovate to keep making your experience with us better",
+  "products": [
+    {
+      "id": "1",
+      "name": "Tonic with cucumber and mint",
+      "imageUrl": "/drinks/tonic-with-cucumber-and-mint.jpeg",
+      "highlight": "Fresh and refreshing summer drink with Lillet Blanc and tonic.",
+      "description": "Fresh and refreshing summer drink with Lillet Blanc and tonic. Serve with ice and garnish with planed cucumber, nectarine wedge and mint.",
+      "ingredients": [
+        "1 watermelon",
+        "37 cl prosecco or",
+        "4 dl carbonated water with lemon flavor"
+      ],
+      "nutrients": [
+        {
+          "nutrient": "Total Fat",
+          "amount": "22%",
+          "moreNutrients": [
+            { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+            { "nutrient": "Trans Fat 9g", "amount": "" }
+          ]
+        },
+        {
+          "nutrient": "Cholesterol 55mg",
+          "amount": "18%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Sodium40g",
+          "amount": "2%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Total Carbohydrate 17g",
+          "amount": "6%",
+          "moreNutrients": [
+            { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+            { "nutrient": "Sugars 14g", "amount": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Strawberry drink with mint",
+      "imageUrl": "/drinks/summer-drink-with-melon-bubble.jpeg",
+      "highlight": "Syrup with strawberries and mint top with sparkling wine.",
+      "description": "Syrup with strawberries and mint top with sparkling wine. Refreshing and delicious! Garnish with mint.",
+      "ingredients": [""],
+      "nutrients": [
+        {
+          "nutrient": "Total Fat",
+          "amount": "22%",
+          "moreNutrients": [
+            { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+            { "nutrient": "Trans Fat 9g", "amount": "" }
+          ]
+        },
+        {
+          "nutrient": "Cholesterol 55mg",
+          "amount": "18%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Sodium40g",
+          "amount": "2%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Total Carbohydrate 17g",
+          "amount": "6%",
+          "moreNutrients": [
+            { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+            { "nutrient": "Sugars 14g", "amount": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Strawberry drink with mint",
+      "imageUrl": "/drinks/strawberry-drink-with-mint.jpeg",
+      "highlight": "Mix watermelon and dilute with sparkling wine or carbonated water",
+      "description": "Mix watermelon and dilute with sparkling wine or carbonated water. Serve with ice. Superbly refreshing and perfect for hot summer days.",
+      "ingredients": [""],
+      "nutrients": [
+        {
+          "nutrient": "Total Fat",
+          "amount": "22%",
+          "moreNutrients": [
+            { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+            { "nutrient": "Trans Fat 9g", "amount": "" }
+          ]
+        },
+        {
+          "nutrient": "Cholesterol 55mg",
+          "amount": "18%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Sodium40g",
+          "amount": "2%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Total Carbohydrate 17g",
+          "amount": "6%",
+          "moreNutrients": [
+            { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+            { "nutrient": "Sugars 14g", "amount": "" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Mango drink with coconut",
+      "imageUrl": "/drinks/mango-drink-with-coconut.jpeg",
+      "highlight": "Start the party with a sunny yellow drink",
+      "description": "Start the party with a sunny yellow drink, with or without alcohol. Pineapple juice and mango are the base.",
+      "ingredients": [""],
+      "nutrients": [
+        {
+          "nutrient": "Total Fat",
+          "amount": "22%",
+          "moreNutrients": [
+            { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+            { "nutrient": "Trans Fat 9g", "amount": "" }
+          ]
+        },
+        {
+          "nutrient": "Cholesterol 55mg",
+          "amount": "18%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Sodium40g",
+          "amount": "2%",
+          "moreNutrients": []
+        },
+        {
+          "nutrient": "Total Carbohydrate 17g",
+          "amount": "6%",
+          "moreNutrients": [
+            { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+            { "nutrient": "Sugars 14g", "amount": "" }
+          ]
+        }
+      ]
+    }
+  ]
+}
