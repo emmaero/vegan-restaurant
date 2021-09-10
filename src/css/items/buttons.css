@@ -1,12 +1,18 @@
-.button-main{
-    border: solid 3px var(--color-green);
-    background-color: var(--color-white);
-    padding: var(--space-small) 0;
-    min-width: 311px;
-    height: 44px;
-    text-align: center;
-    cursor: pointer;
+.button-main {
+  border: solid 3px var(--color-green);
+  background-color: var(--color-white);
+  padding: var(--space-small) 0;
+  min-width: 311px;
+  height: 44px;
+  text-align: center;
+  cursor: pointer;
+  font-size: var(--font-button-mobile);
 }
-.button-main:hover{
-    background-color: var(--color-green);
+.button-main:hover {
+  background-color: var(--color-green);
+}
+@media (min-width: 900px) {
+  .button-main {
+    font-size: var(--font-button-desktop);
+  }
 }
