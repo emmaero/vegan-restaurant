@@ -4,7 +4,7 @@ import Navigation from "./Navigation";
 import HomePage from "./homePage/HomePage";
 import Category from "./category/Category";
 import Product from "./product/ProductPage";
-import Contact from "../components/contact/Contact";
+import ContactPage from "../components/contact/ContactPage";
 
 export default function ReactRouter() {
   return (
@@ -14,7 +14,7 @@ export default function ReactRouter() {
         <Route path="/" exact component={HomePage} />
         <Route path="/category/:id" component={Category} />
         <Route path="/product/:categoryId/:id" component={Product} />
-        <Route path="/contact" component={Contact} />
+        <Route path="/contact" component={ContactPage} />
       </Switch>
     </Router>
   );

@@ -15,13 +15,13 @@ export default function Category({ match }) {
       <div className="category-header">
         <h1>{category.name}</h1>
         <div className="overlay"></div>
-          <img
-            src={
-              require("../../assets/images/category" + category.categoryImage)
-                .default
-            }
-            alt="vegan"
-          />   
+        <img
+          src={
+            require("../../assets/images/category" + category.categoryImage)
+              .default
+          }
+          alt="vegan"
+        />
       </div>
       <div className="category-page-detail row">
         <p>{category.description}</p>

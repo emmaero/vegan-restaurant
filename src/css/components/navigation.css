@@ -1,5 +1,5 @@
 .logo {
-  height: 112px;
+  height: 90px;
 }
 .logo img {
   height: 100%;
@@ -7,7 +7,7 @@
 }
 
 .nav-bar {
-  font-size: 18px;
+  font-size: var(--font-nav-bar);
   background-color: var(--color-green);
   height: 48px;
   display: flex;
@@ -84,14 +84,14 @@
   }
 
   .nav-bar {
-    height: 112px;
+    height: 90px;
   }
   .nav-links {
-    height: 64px;
+    height: inherit;
     max-width: 611px;
     transform: translatex(0%);
     flex-direction: row;
-    top: none;
+    top: 0;
   }
   .nav-bar li {
     list-style: none;
@@ -103,17 +103,10 @@
     margin: auto;
     opacity: 1;
   }
-
-  nav li a:hover {
-    background: var(--color-white);
-    color: var(--color-green) !important;
-  }
   .nav-bar li{
     display: flex;
     list-style: none;
     text-decoration: none;
-    font-weight: bold;
-    margin: auto;
     height: 100%;
     align-items: center;
     justify-content: center;
