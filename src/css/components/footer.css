@@ -8,3 +8,8 @@ footer {
   align-items: center;
 
 }
+.icons-footer img{
+    width: auto;
+    margin: 4px 16px;
+    max-height: 35px;
+}
