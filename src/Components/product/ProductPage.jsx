@@ -1,5 +1,6 @@
 import React from "react";
 import categories from "../../contents/categories.json";
+import NutritionFact from "./NutritionFact";
 import { useHistory } from "react-router";
 
 export default function Product({ match }) {
@@ -23,7 +24,8 @@ export default function Product({ match }) {
         <h2>{product.name}</h2>
         <p>{product.description}</p>
         <h2>Ingredients</h2>
-        <h2>Nutritional fact</h2>
+        <h2>Nutrition facts</h2>
+        <NutritionFact nutrients={product.nutrients} />
         <button className="button-main" onClick={goToPreviousPath}>
           Go back
         </button>
