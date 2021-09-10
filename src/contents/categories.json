@@ -12,7 +12,34 @@
         "imageUrl": "/dishes/lentil-stew.jpeg",
         "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+             "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "2",
@@ -20,7 +47,31 @@
         "imageUrl": "/dishes/carot-soup.jpeg",
         "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": []
+          }
+        ]
       },
       {
         "id": "3",
@@ -28,7 +79,34 @@
         "imageUrl": "/dishes/peanut-stew-with-cauliflower.jpeg",
         "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+             "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "4",
@@ -36,7 +114,34 @@
         "imageUrl": "/dishes/potato-beans.jpeg",
         "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -53,7 +158,34 @@
         "imageUrl": "/deserts/cinnamon-cardamom-bun.jpeg",
         "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "2",
@@ -61,7 +193,34 @@
         "imageUrl": "/deserts/eggplant-creamy-rum-sauce.jpeg",
         "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "3",
@@ -69,7 +228,34 @@
         "imageUrl": "/deserts/mushrooms-onions-mustard-seeds.jpeg",
         "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "4",
@@ -77,7 +263,34 @@
         "imageUrl": "/deserts/vegan-toast.jpeg",
         "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       }
     ]
   },
@@ -94,7 +307,34 @@
         "imageUrl": "/dishes/lentil-stew.jpeg",
         "description": "vegan stew with lots of flavor! Potatoes, carrots and red lentils are seasoned in the stew with ginger, turmeric and chili.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+           "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "2",
@@ -102,7 +342,34 @@
         "imageUrl": "/dishes/carot-soup.jpeg",
         "description": "White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.White beans and roasted carrots with garlic are mixed into a creamy soup.Top with olive oil and pumpkin seeds.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "3",
@@ -110,7 +377,34 @@
         "imageUrl": "/dishes/peanut-stew-with-cauliflower.jpeg",
         "description": "Vegan stew with a lot of flavor! The cauliflower is boiled with peanut butter, ginger, lime and sriracha. Serve with Asian coleslaw.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       },
       {
         "id": "4",
@@ -118,7 +412,34 @@
         "imageUrl": "/dishes/potato-beans.jpeg",
         "description": "Boiled potatoes and white beans are mixed into a creamy soup together with spices. Drizzle ready-made pesto over and serve with toast.",
         "ingredients": [""],
-        "nutrients": [{}]
+        "nutrients": [
+          {
+            "nutrient": "Total Fat",
+            "amount": "22%",
+            "moreNutrients": [
+              { "nutrient": "Saturated Fat 9g", "amount": "22%" },
+              { "nutrient": "Trans Fat 9g", "amount": "" }
+            ]
+          },
+          {
+            "nutrient": "Cholesterol 55mg",
+            "amount": "18%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Sodium40g",
+            "amount": "2%",
+            "moreNutrients": []
+          },
+          {
+            "nutrient": "Total Carbohydrate 17g",
+            "amount": "6%",
+            "moreNutrients": [
+              { "nutrient": "Dietary Fiber 1g", "amount": "Dietary Fiber 1g" },
+              { "nutrient": "Sugars 14g", "amount": "" }
+            ]
+          }
+        ]
       }
     ]
   }

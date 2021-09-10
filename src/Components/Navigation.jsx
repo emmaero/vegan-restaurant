@@ -12,16 +12,24 @@ export default function Navigation() {
       </div>
       <ul className="nav-links">
         <li>
-          <Link to="/category/1">Dishes</Link>
+          <Link to="/category/1" onClick={() => toggleSlide()}>
+            Dishes
+          </Link>
         </li>
         <li>
-          <Link to="/category/2">Deserts</Link>
+          <Link to="/category/2" onClick={() => toggleSlide()}>
+            Deserts
+          </Link>
         </li>
         <li>
-          <Link to="/category/3">Drinks</Link>
+          <Link to="/category/3" onClick={() => toggleSlide()}>
+            Drinks
+          </Link>
         </li>
         <li>
-          <Link to="/contact">Contact us</Link>
+          <Link to="/contact" onClick={() => toggleSlide()}>
+            Contact us
+          </Link>
         </li>
       </ul>
       <button onClick={() => toggleSlide()} className="burger">
