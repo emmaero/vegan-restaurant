@@ -29,4 +29,7 @@
   .category-section:nth-child(even) {
     flex-direction: row-reverse;
   }
+  .category-section>* {
+    width: 50%;
+  }
 }
