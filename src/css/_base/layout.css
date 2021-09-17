@@ -23,7 +23,6 @@ a {
 @media (min-width: 920px) {
   .container-inner {
     width: 80%;
-    margin: auto;
   }
 }
 

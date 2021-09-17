@@ -1,15 +1,13 @@
 h1 {
-    font-size: var(--font-heading-1-mobile);
-      line-height: 1.45;
+  font-size: var(--font-heading-1-mobile);
 }
 
 h2 {
-    font-size: var(--font-heading-2-mobile);
-      line-height: 1.45;
+  font-size: var(--font-heading-2-mobile);
 }
 h3 {
   font-size: var(--font-heading-3-mobile);
-  line-height: 1.45;
+
   margin: 0;
 }
 @media (min-width: 920px) {
