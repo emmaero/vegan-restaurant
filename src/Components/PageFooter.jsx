@@ -1,17 +1,17 @@
 import React from "react";
 import facebookIcon from "../assets/icons/facebook.png";
 import instagramIcon from "../assets/icons/instagram.png";
+import { FaFacebookSquare, FaInstagram } from "react-icons/fa";
 
 export default function PageFooter() {
   return (
     <footer>
       <div className="icons-footer">
         <a href="">
-          {" "}
-          <img src={facebookIcon} alt="" />
+          <FaFacebookSquare/>
         </a>
         <a href="">
-          <img src={instagramIcon} alt="" />
+          <FaInstagram/>
         </a>
       </div>
       <div className="copyright">© 2021 Emmanuel</div>

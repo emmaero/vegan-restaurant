@@ -17,6 +17,15 @@ a {
 .container {
   width: 100%;
 }
+.container-inner {
+  width: 100%;
+}
+@media (min-width: 920px) {
+  .container-inner {
+    width: 80%;
+    margin: auto;
+  }
+}
 
 .App {
   font-family: var(--font-family);

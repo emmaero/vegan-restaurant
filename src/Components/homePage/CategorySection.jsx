@@ -12,12 +12,14 @@ export default function CategorySection({ item }) {
         alt="vegan halmstad"
       />
       <div className="section-description">
-        <h2>{item.name}</h2>
-        <p>{item.description}</p>
+        <div className="container-inner">
+          <h2>{item.name}</h2>
+          <p>{item.description}</p>
 
-        <Link to={`/category/${item.id}`}>
-          <button className="button-main">View menu</button>
-        </Link>
+          <Link to={`/category/${item.id}`}>
+            <button className="button-main">View menu</button>
+          </Link>
+        </div>
       </div>
     </div>
   );

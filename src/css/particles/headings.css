@@ -1,16 +1,18 @@
 h1 {
-    font-size: var(--font-heading-1-mobile)
+    font-size: var(--font-heading-1-mobile);
+      line-height: 1.45;
 }
 
 h2 {
-    font-size: var(--font-heading-2-mobile)
+    font-size: var(--font-heading-2-mobile);
+      line-height: 1.45;
 }
 h3 {
   font-size: var(--font-heading-3-mobile);
-  line-height: 22px;
+  line-height: 1.45;
   margin: 0;
 }
-@media (min-width: 550px) {
+@media (min-width: 920px) {
   h1 {
     font-size: var(--font-heading-1-desktop);
   }

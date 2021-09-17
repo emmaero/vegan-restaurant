@@ -1,15 +1,16 @@
 footer {
   background-color: var(--color-green);
+  color: var(--color-light-green);
   min-height: 44px;
   width: 100%;
   margin-top: var(--space-medium);
   display: flex;
   flex-direction: column;
   align-items: center;
-
+  padding: 8px 0;
 }
-.icons-footer img{
-    width: auto;
-    margin: 4px 16px;
-    max-height: 35px;
+footer > .icons-footer svg {
+  width: 40px;
+  height: 40px;
+  margin: 0 8px;
 }

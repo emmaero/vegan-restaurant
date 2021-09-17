@@ -35,7 +35,13 @@
 .product-list img {
   max-height: 88px;
 }
-
+.product-card-info {
+  display: block;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+  overflow: hidden;
+  max-height: 67px;
+}
 .product-list li {
   padding: var(--space-small) 0;
 }
@@ -45,7 +51,13 @@
 .product-card div {
   padding: 0 var(--space-medium);
 }
-@media only screen and (min-width: 768px) {
+.view-page {
+  width: 100%;
+}
+.view-page a{
+  position: relative;
+}
+@media only screen and (min-width: 920px) {
   .product-list img,
   .product-card {
     max-height: 160px;
@@ -57,6 +69,9 @@
   }
   .category-header {
     min-height: 500px;
+    max-height: 80%;
+  }
+  .product-card-info {
     max-height: 80%;
   }
 }

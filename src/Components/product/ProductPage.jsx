@@ -32,7 +32,6 @@ export default function Product({ match }) {
         {ingredients.map((item, index) => (
           <span>{item}</span>
         ))}
-        <h2>Nutrition facts</h2>
         <NutritionFact nutrients={nutrients} />
         <button className="button-main" onClick={goToPreviousPath}>
           Go back

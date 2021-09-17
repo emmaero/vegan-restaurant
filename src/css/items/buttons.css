@@ -7,11 +7,20 @@
   text-align: center;
   cursor: pointer;
   font-size: var(--font-button-mobile);
+  color: var(--color-green);
+}
+.button-link{
+  background:none;
+  border: none;
+  font-weight: bold;
+  text-decoration: underline;
+  cursor: pointer;
 }
 .button-main:hover {
   background-color: var(--color-green);
+  color: var(--color-white);
 }
-@media (min-width: 900px) {
+@media (min-width: 920px) {
   .button-main {
     font-size: var(--font-button-desktop);
   }
