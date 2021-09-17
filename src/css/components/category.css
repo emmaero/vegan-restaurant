@@ -48,20 +48,24 @@
 .product-list p {
   text-overflow: ellipsis;
 }
-.product-card div {
-  padding: 0 var(--space-medium);
+.product-card > div {
+  padding-left: var(--space-medium);
 }
 .view-page {
   width: 100%;
 }
-.view-page a{
+.view-page a {
   position: relative;
 }
 @media only screen and (min-width: 920px) {
+
   .product-list img,
   .product-card {
     max-height: 160px;
   }
+  .product-card-info {
+  max-height: 100px;
+}
   .product-card div {
     display: flex;
     flex-direction: column;

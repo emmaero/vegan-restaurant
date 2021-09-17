@@ -4,6 +4,7 @@ import ContactAddress from "./ContactAddress";
 import Booking from "./Booking";
 import map from "../../assets/images/map.png";
 import OpeningTimes from "./OpeningTimes";
+
 export default function ContactPage() {
   return (
     <div className="container">
